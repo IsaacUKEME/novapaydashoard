@@ -17,6 +17,6 @@ Deliverables Expected Executive summary, detailed EDA, visualizations with clear
 interpretations, and prioritized recommendations.
 
 ## VISUALIZATION 
-![](Novapay Dashboard.jpg)
+![](NovapayDash.jpg)
 
 
